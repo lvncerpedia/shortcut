@@ -1,5 +1,22 @@
 # shortcut
 
+特定の機能を動作させるために押すキーをまとめた。
+
+## launcher
+
+https://github.com/lvncer/launcher
+
+- alt space : ランチャー起動
+
+## SuperWhisper
+
+- alt Cmd : 音声受付
+
+## Claude Desktop
+
+- Caps Lock : 音声受付
+- alt alt : コマンド受付
+
 ## IDE
 
 - alt 上下 : 行の移動
